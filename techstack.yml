@@ -1,0 +1,103 @@
+repo_name: hansench/bootstrap-angular-validation
+report_id: 349b794306bef6680bb9fe2715332e20
+repo_type: Public
+timestamp: '2023-11-13T17:26:57+00:00'
+requested_by: sagrawal31
+provider: github
+branch: master
+detected_tools_count: 8
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: Shashank Agrawal
+  last_updated_on: 2016-05-18 07:44:02.000000000 Z
+- name: grunt
+  description: The JavaScript Task Runner
+  package_url: https://www.npmjs.com/grunt
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15835/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source: package.json
+  last_updated_by: Shashank Agrawal
+  last_updated_on: 2016-05-18 07:44:02.000000000 Z
+- name: grunt-bump
+  description: Bump package version
+  package_url: https://www.npmjs.com/grunt-bump
+  version: 0.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16360/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Shashank Agrawal
+  last_updated_on: 2016-05-18 07:44:02.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source: package.json
+  last_updated_by: Shashank Agrawal
+  last_updated_on: 2016-05-18 07:44:02.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Shashank Agrawal
+  last_updated_on: 2016-05-18 07:44:02.000000000 Z
+- name: matchdep
+  description: Use micromatch to filter npm module dependencies by name
+  package_url: https://www.npmjs.com/matchdep
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16416/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source: package.json
+  last_updated_by: Shashank Agrawal
+  last_updated_on: 2016-05-18 07:44:02.000000000 Z
